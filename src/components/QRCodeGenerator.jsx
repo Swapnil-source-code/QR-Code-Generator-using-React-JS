@@ -27,6 +27,7 @@ const QRCodeGenerator = () => {
     <>
       <div className="container">
         <div className="qrcode">
+          <h2>QR Code Generator</h2>
           <p>Enter your text or url</p> 
           <input
             type="text"
